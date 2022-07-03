@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/font/open_sans.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_admin.xml" value="0.28604118993135014" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_delete.xml" value="0.1671875" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_edit.xml" value="0.33" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_edit_crud.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_splash.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_video.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/activity_video_recorder.xml" value="0.1" />
+        <entry key="..\:/Users/Anthony/Desktop/Software/Java/Android Studio/Proyectos/proyecto#1/CRUD/app/src/main/res/layout/model_table_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

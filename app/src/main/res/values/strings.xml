@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Grizzly</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+
+
+    <!-- Actividad 1 -->
+    <string name="act1_nameLogo">Grabadora \nGrizzly</string>
+    <string name="act1_nameMonster">from Zort Corporation</string>
+
+    <!-- Actividad 2 -->
+    <string name="act2_textTitle">¡Qué bueno verte por acá!</string>
+    <string name="act2_textSubtitle">Ingresa tus datos para continuar</string>
+
+    <string name="act2_hint_subField">Usuario</string>
+    <string name="act2_hint_subField2">"Contraseña"</string>
+    <string name="act2_helperText">"*Obligatorio"</string>
+
+    <string name="act2_textOlvidar">¿Olvidaste la contraseña?</string>
+    <string name="act2_buttonIniciar">Iniciar sesion</string>
+    <string name="act2_textView">¿Usuario nuevo?</string>
+    <string name="act2_textCrear">registrate</string>
+
+    <!-- Actividad 3 -->
+    <string name="act3_textTitle">¡Se uno de nosotros!</string>
+    <string name="act3_textSubtitle">Llena lo siguiente para comenzar</string>
+
+    <string name="act3_hint_subField">Usuario</string>
+    <string name="act3_hint_subField2">"Nombre"</string>
+    <string name="act3_hint_subField3">"Apellido"</string>
+    <string name="act3_hint_subField4">"Correo"</string>
+    <string name="act3_hint_subField5">"Contraseña"</string>
+    <string name="act3_helperText">"*Obligatorio"</string>
+    <string name="act3_helperText2">"*Necesario"</string>
+
+    <string name="act3_buttonRegistrar">Registrarse</string>
+    <string name="act3_textView">¿Ya tienes cuenta?</string>
+    <string name="act3_textIniciar">inicia sesión</string>
+    <string name="title_activity_video">Video_Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- Activity Recorder Video -->
+    <string name="btnGrabar">Grabar</string>
+    <string name="btnVer">Ver Video</string>
+</resources>
